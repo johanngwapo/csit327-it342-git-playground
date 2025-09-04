@@ -17,5 +17,5 @@
 - Caranzo, Mac Howard (**@Howardness**)
 - Tabungar, Steven Jan (**@Smuffinn**)
 - verano, joel (**@VeranoJoel**)
-- Cordova, Johann Anthony (**johanngwapo**)
+- Cordova, Johann Anthony (**@johanngwapo**)
 
